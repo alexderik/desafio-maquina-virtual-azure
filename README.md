@@ -1,6 +1,6 @@
 # Desafio DIO: Criação e Documentação de Máquina Virtual (VM) no Azure
 
-Este projeto faz parte do Desafio de Projeto da Digital Innovation One (DIO) e tem como objetivo principal consolidar os conhecimentos na criação e gerenciamento de Máquinas Virtuais (VMs) na plataforma Microsoft Azure, além de praticar a documentação técnica usando o GitHub e a formatação Markdown.
+Este projeto faz parte do Desafio de Projeto da Digital (DIO) e tem como objetivo principal consolidar os conhecimentos na criação e gerenciamento de Máquinas Virtuais (VMs) na plataforma Microsoft Azure, além de praticar a documentação técnica usando o GitHub e a formatação Markdown.
 
 ---
 
